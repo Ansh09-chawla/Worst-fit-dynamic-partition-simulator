@@ -14,10 +14,6 @@ request. If tag<0 then this is a deallocation request, in which case the size fi
 report the results of the simulation via the result parameter.
 
 
-# memsim
-
-skeleton code for Assignment 5 Question 1
-
 # sample test files:
 Make sure you also make your own test files.
 ```
